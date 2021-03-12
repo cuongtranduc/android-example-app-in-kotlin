@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="text_style">
+        <item name="android:fontFamily">@font/roboto_thin</item>
+        <item name="android:paddingTop">@dimen/padding_top</item>
+        <item name="android:textSize">@dimen/name_size</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+</resources>

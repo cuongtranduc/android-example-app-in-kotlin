@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="my_name">Cuong Tran Duc</string>
+    <string name="bio_desc">Mobile and web developer,
+        mostly work in React Native for past two years,
+        sometimes work as web developer using React and C#
+        The important thing to remember is that since ScrollView can only have one child, you have to wrap that ImageView and the TextView into a LinearLayout.
+
+There is no solution code provided for this challenge, but the skeleton code below gives you the expected view hierarchy to use.
+
+SKELETON code of view hierarchy:
+        The important thing to remember is that since ScrollView can only have one child, you have to wrap that ImageView and the TextView into a LinearLayout.
+
+There is no solution code provided for this challenge, but the skeleton code below gives you the expected view hierarchy to use.
+
+SKELETON code of view hierarchy:
+        The important thing to remember is that since ScrollView can only have one child, you have to wrap that ImageView and the TextView into a LinearLayout.
+
+There is no solution code provided for this challenge, but the skeleton code below gives you the expected view hierarchy to use.
+
+SKELETON code of view hierarchy:
+    </string>
+    <string name="name_hint">What\'s your nick name?</string>
+    <string name="submit_button">Submit</string>
+</resources>
