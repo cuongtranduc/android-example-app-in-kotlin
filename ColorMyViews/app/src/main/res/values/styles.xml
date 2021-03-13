@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="common_text_view" parent="Widget.MaterialComponents.TextView">
+        <item name="android:background">#FFF</item>
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+</resources>
